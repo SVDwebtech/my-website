@@ -4,6 +4,7 @@ This is a really awesome website
 
 ```json
    // Code for coloring
+   "try": "I hope this works!";
 ```
 ```html
    // Code for coloring
