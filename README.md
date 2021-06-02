@@ -2,13 +2,16 @@
 
 This is a really awesome website
 
-* use root selector --> 
-  
-```js
-:root {
-    --color-primary: #b4b428;
-    --color-primary-light: #ffff00;
-    --color-primary-dark: #464600;
-}
+```json
+   // Code for coloring
 ```
-    
+```html
+   // Code for coloring
+```
+```js
+   // Code for coloring
+```
+```css
+   // Code for coloring
+```
+// etc.
