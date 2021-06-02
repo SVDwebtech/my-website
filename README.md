@@ -8,11 +8,16 @@ This is a really awesome website
 ```
 ```html
    // Code for coloring
+   <h1>This is fun</h1>
 ```
 ```js
    // Code for coloring
+   let age = 20;
 ```
 ```css
    // Code for coloring
+   .age {
+      color: red;
+   }
 ```
 // etc.
